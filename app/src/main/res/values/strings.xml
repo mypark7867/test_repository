@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">DinnerToday</string>
+    <string name="app_name">HOTELIN</string>
+    <string name="app_title">Welcome to the HOTELIN!</string>
+    <string name="layout_buttonIn">CHECK IN</string>
+    <string name="layout_buttonOut">CHECK OUT</string>
 </resources>

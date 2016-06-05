@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">저녁메뉴 정하기</string>
+    <string name="app_name">호텔인</string>
+    <string name="app_title">호텔인에 오신걸 환영합니다!</string>
+    <string name="layout_buttonIn">체크인</string>
+    <string name="layout_buttonOut">체크아웃</string>
 </resources>
